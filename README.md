@@ -107,10 +107,6 @@ The UI examples of the demo project inspired from [Dribbble](https://dribbble.co
 
 The project is Inspired by [UICircularSlider](https://github.com/Zedenem/UICircularSlider)
 
-## Author
-
-Hamza Ghazouani, hamza.ghazouani@gmail.com
-
 ## License
 
 HGCircularSlider is available under the MIT license. See the LICENSE file for more info.
